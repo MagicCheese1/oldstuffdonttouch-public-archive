@@ -1,0 +1,30 @@
+
+mvmnt/.vscode/
+mvmnt/obj/
+
+mvmnt/bin/*
+mvmnt/bin/Debug/*
+mvmnt/bin/Debug/netcoreapp2.2/*
+
+mvmnt/!bin/Debug
+mvmnt/!bin/Debug/netcoreapp2.2
+mvmnt/!bin/Debug/netcoreapp2.2/LEVELS
+
+
+Botupgrade/bin/
+Botupgrade/obj/
+Botupgrade/.vscode/
+
+sbdgdfghbf/bin/
+sbdgdfghbf/obj/
+sbdgdfghbf/.vscode/
+
+Youtube Download Test/bin/
+Youtube Download Test/obj/
+Youtube Download Test/.vscode/
+
+CUMAGICS2/CUMAGICS2/bin/
+CUMAGICS2/CUMAGICS2/Content/bin/
+CUMAGICS2/CUMAGICS2/obj/
+CUMAGICS2/CUMAGICS2/Content/obj/
+CUMAGICS2/CUMAGICS2/.vs/
